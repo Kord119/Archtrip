@@ -1,4 +1,4 @@
-# Ticket Agent
+# Archtrip
 
 Локальный ИИ-агент для поиска билетов на поезда и самолёты. Работает на связке
 Ollama (локальная языковая модель) и CrewAI (оркестрация агентов).
@@ -42,7 +42,7 @@ Ollama (локальная языковая модель) и CrewAI (оркес�
 ## Установка
 
     git clone https://github.com/Kord119/Archtrip.git
-    cd ticket-agent
+    cd Archtrip
 
     python -m venv venv
     venv\Scripts\activate          # Windows
