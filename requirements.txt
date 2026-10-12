@@ -1,0 +1,21 @@
+# Ядро агентов
+crewai
+
+# Поиск в интернете
+duckduckgo-search
+
+# HTTP-запросы и парсинг страниц
+requests
+beautifulsoup4
+
+# Переменные окружения (.env)
+python-dotenv
+
+# Реальные цены РЖД (ticket.rzd.ru)
+rzd-api
+
+# Раскомментировать, если используете браузерные инструменты:
+# playwright
+
+# Раскомментировать, если в коде остался импорт ChatOllama:
+# langchain-ollama
