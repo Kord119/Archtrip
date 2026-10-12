@@ -41,7 +41,7 @@ Ollama (локальная языковая модель) и CrewAI (оркес�
 
 ## Установка
 
-    git clone https://github.com/ВАШ_НИК/ticket-agent.git
+    git clone https://github.com/Kord119/Archtrip.git
     cd ticket-agent
 
     python -m venv venv
